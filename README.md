@@ -1,4 +1,4 @@
-## 🚀 Defense AI Competition (Grand Prize): AI-Powered Autonomous Navigation & Target Identification Robot
+## 🚀 Defense AI Competition (Excellence Prize): AI-Powered Autonomous Navigation & Target Identification Robot
 
 **[Project Overview]**
 This project, which won the **Grand Prize** at the Defense AI Competition, is a fully autonomous robotics system. The NVIDIA Jetson-based **TikiMini robot** autonomously navigates a designated lane, stopping at specific mission waypoints (marked by green squares). Upon stopping, it scans the area using a **custom-trained YOLOv8n model** to perform real-time identification of allied vs. enemy forces (tanks and infantry). When an enemy tank is detected, the system automatically executes an 'attack' protocol—sounding an alarm and firing its cannon.
